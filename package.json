@@ -1,9 +1,9 @@
 {
-  "name": "agora-aclass-ui-kit",
+  "name": "mui-bundle-issue",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "matrixbirds <yooobuntu@gmail.com>",
-  "homepage": "https://github.com/agoraio-community/CloudClass-Desktop/tree/master/packages/agora-aclass-ui-kit#readme",
+  "homepage": "https://github.com/Matrixbirds/mui-webpack-bundle-issue",
   "license": "ISC",
   "main": "lib/agora-aclass-ui-kit.js",
   "directories": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agoraio-community/CloudClass-Desktop.git"
+    "url": "git+https://github.com/Matrixbirds/mui-webpack-bundle-issue"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production BABEL_NODE=production webpack --mode='production'",
@@ -24,7 +24,7 @@
     "build-storybook": "build-storybook"
   },
   "bugs": {
-    "url": "https://github.com/agoraio-community/CloudClass-Desktop/issues"
+    "url": "https://github.com/Matrixbirds/mui-webpack-bundle-issue/issues"
   },
   "devDependencies": {
     "@babel/core": "7.12.10",
